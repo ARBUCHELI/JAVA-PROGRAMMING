@@ -2,8 +2,12 @@
 
 ## JAVA PROGRAMMING EXERCISES
 
-## Algorithms (Which car should you buy?)
+## Algorithms 
 
 ![picture](https://raw.githubusercontent.com/ARBUCHELI/JAVA-PROGRAMMING/main/pictures/Algoritms.jpg.png)
+
+![picture](https://raw.githubusercontent.com/ARBUCHELI/JAVA-PROGRAMMING/main/pictures/1.png)
+
+
 
 
