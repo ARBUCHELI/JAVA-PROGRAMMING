@@ -5,14 +5,10 @@
 ## Algorithms 
 
 ![picture](https://raw.githubusercontent.com/ARBUCHELI/JAVA-PROGRAMMING/main/pictures/Algoritms.jpg.png)
-
 <hr>
-
 ![picture](https://raw.githubusercontent.com/ARBUCHELI/JAVA-PROGRAMMING/main/pictures/1.png)
-
-
-
-![picture]
+<hr>
+![picture](https://raw.githubusercontent.com/ARBUCHELI/JAVA-PROGRAMMING/main/pictures/2.png)
 
 
 
